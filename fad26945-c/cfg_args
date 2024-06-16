@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/shared/SourceCode/data/3DGS/Tomorrow/Painel', model_path='./output/fad26945-c', images='images', resolution=-1, white_background=False, data_device='cuda', eval=False)
